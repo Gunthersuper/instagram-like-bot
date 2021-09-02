@@ -1,5 +1,5 @@
-# instagram-comment-bot
-A simple solution to automatic commenting instagram posts by tags or locations
+# instagram-like-bot
+A simple solution to automatic liking instagram posts by tags or locations
 
 [![GitHub followers](https://img.shields.io/github/followers/Gunthersuper?label=Follow&style=social)](https://github.com/Gunthersuper)
 [![streamlabs](https://img.shields.io/badge/Donate-%241-red)](https://streamlabs.com/gunther2/tip)
@@ -12,5 +12,5 @@ A simple solution to automatic commenting instagram posts by tags or locations
 
 ### Using:
 1. Open congif.py using any text editor.
-2. Make configuration (enter username, password, tags, locations, comments)
+2. Make configuration (enter username, password, tags, locations)
 3. Open CMD, console, or PowerShell in the bot folder. Enter: `py bot.py`
