@@ -92,7 +92,7 @@ class Instagram():
 		try:
 			browser.get(post)
 			time.sleep(random.randrange(1, 2))
-			browser.find_element_by_xpath('/html/body/div[1]/section/main/div/div[1]/article/div[3]/section[1]/span[1]/button').click()
+			browser.find_element_by_xpath('/html/body/div[1]/section/main/div/div[1]/article/div/div[2]/div[2]/section[1]/span[1]/button').click()
 			time.sleep(random.randrange(1, 2))
 			browser.get(post)
 			time.sleep(random.randrange(1, 2))
